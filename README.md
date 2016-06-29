@@ -7,4 +7,6 @@ Checkout the LPD8 Preset 1 Tutorial to see how to customize the controller for s
 
 Use default values to reset the LPD8
 
-I'm Looking into modifying the controller without the LPD8 Editor (exclusively in Max)
+<strike>I'm Looking into modifying the controller without the LPD8 Editor (exclusively in Max)</strike>
+
+Apparently the LPD8 editor was made with Max. 
