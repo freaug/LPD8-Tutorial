@@ -10,3 +10,5 @@ Use default values to reset the LPD8
 <strike>I'm Looking into modifying the controller without the LPD8 Editor (exclusively in Max)</strike>
 
 Apparently the LPD8 editor was made with Max. 
+
+Current Project: Rewrite the LPD8 editor in Java and make a more efficient interface for performances. 
